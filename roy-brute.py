@@ -84,12 +84,9 @@ def jalan(z):
 # LO KONTOL
 def logo():
     print(f"""{H}
-  _____.___.            _____ _____________________
- \__  |   |           /  _  \\______   \_   _____/
-  /   |   |  ______  /  /_\  \|    |  _/|    __)  
-  \____   | /_____/ /    |    \    |   \|     \   
-  / ______|         \____|__  /______  /\___  /   
-  \/                        \/       \/     \/   {N} """)
+╦═╗╔═╗╦ ╦   ╔╗ ╦═╗╦ ╦╔╦╗╔═╗
+╠╦╝║ ║╚╦╝───╠╩╗╠╦╝║ ║ ║ ║╣ 
+╩╚═╚═╝ ╩    ╚═╝╩╚═╚═╝ ╩ ╚═╝   {N} """)
 def convert_cookie(cok):
     return ( ";".join([str(i[0])+'='+str(i[1]) for i in cok.items()]) )
 
@@ -198,16 +195,17 @@ def moch_yayan():
     ipm = requests.get(url_ip).json()
     IP = ipm["origin"]
     print("===============================================")
-    print(f"{P} [{H}*{P}] Author      :{K} Roy Okta Firdaus")
-    print(f"{P} [{H}*{P}] Facebook    :{K} facebook.com/JbFbOld")
+    print(f"{P} [{H}*{P}] Author      :{K} Roy OCta Firdaus")
     print(f"{P} [{H}*{P}] Whatsapp    :{K} 081318306972")
-    print(f"{P} [{H}*{P}] Nama SC     :{K} Roy Multi Brute Force")
-    print(f"{P} [{H}*{P}] Versi SC    : V1.3")
+    print(f"{P} [{H}*{P}] Nama SC     :{K} Roy Brute Force")
+    print(f"{P} [{H}*{P}] Versi SC    :{K} V1.0")
     print("===============================================")
     print(f"{P} [{H}*{P}] Nama FB      :{K}{nama}")
     print(f"{P} [{H}*{P}] ID FB        :{K}{idfb}")
     print(f"{P} [{H}*{P}] IP Anda      :{K}{IP}")
-    print(' [%s01%s]. Crack id dari anggota grup'%(O,N));time.sleep(0.03)
+    print("===============================================")
+    print(f"{P} [{H}*{P}]{K} MENU PILIHAN")
+    print(' %s[%s01%s]. Crack id dari anggota grup'%(N,O,N));time.sleep(0.03)
     print(' [%s02%s]. Crack id dari teman publik'%(O,N));time.sleep(0.03)
     print(' [%s03%s]. Crack id dari total followers'%(O,N));time.sleep(0.03)
     print(' [%s04%s]. Crack id dari like postingan'%(O,N));time.sleep(0.03)
