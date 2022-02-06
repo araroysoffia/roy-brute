@@ -28,6 +28,15 @@ nama12345
 ````
 # Perintah Menjalankan SC
 ````php
+Jika baru install Termux :
+$ termux-change-repo
+[*] Main repository termux-packages
+[*] Game repository game-packages
+[*] Science repository science-packages
+Centang semuanya lalu klik OK
+Selanjutnya Pilih (*) Mirrors by Tsinghua
+Lalu klik OK
+Selanjutnya jalankan perintah SC nya.
 $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests bs4 futures
