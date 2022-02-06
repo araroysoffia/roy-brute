@@ -26,8 +26,6 @@ Method mobile (Hasil OK)
 nama
 nama123
 nama12345
-bismillah
-sayang
 ````
 # Perintah Menjalankan SC
 ````php
