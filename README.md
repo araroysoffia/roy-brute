@@ -34,13 +34,14 @@ $ pip install requests bs4 futures
 $ pip install cython
 $ termux-setup-storage
 $ git clone https://github.com/araroysoffia/roy-brute
-$ python brute.py
+$ cd roy-brute
+$ python roy-brute.py
 ````
 # Perintah Update SC
 ````php
 $ cd roy-brute
 $ git pull
-$ python brute.py
+$ python roy-brute.py
 ````
 # Tampilan SC & Jebol S7I Via 203 UA Global
 ![template_s](#)
