@@ -743,16 +743,16 @@ class __crack__:
                         else:
                             print('\n %s[%s×%s] input yang bener'%(N,M,N));__yan__()
                     print('\n [ pilih method login - silahkan coba satu² ]\n')
-                    print(' [%s1%s]. method API (fast)'%(O,N))
-                    print(' [%s2%s]. method mbasic (slow)'%(O,N))
-                    print(' [%s3%s]. method mobile (super slow) [\033[92mDisarankan\033[0m]'%(O,N))
+                    print(' [%s1%s]. Method API (fast)'%(O,N))
+                    print(' [%s2%s]. Method mbasic (slow)'%(O,N))
+                    print(' [%s3%s]. Method mfacebook (super slow) [\033[92mDisarankan\033[0m]'%(O,N))
                     __yan__(pwek.split(','))
                     break
         elif ___yayanganteng___ in ('T', 't'):
             print('\n [ pilih method login - silahkan coba satu² ]\n')
-            print(' [%s1%s]. method API (fast)'%(O,N))
-            print(' [%s2%s]. method mbasic (slow)'%(O,N))
-            print(' [%s3%s]. method mobile (super slow) [\033[92mDisarankan\033[0m]'%(O,N))
+            print(' [%s1%s]. Method API (fast)'%(O,N))
+            print(' [%s2%s]. Method mbasic (slow)'%(O,N))
+            print(' [%s3%s]. Method mfacebook (super slow) [\033[92mDisarankan\033[0m]'%(O,N))
             self.__pler__()
         else:
             print('\n %s[%s×%s] y/t goblok!'%(N,M,N));self.plerr(id)
