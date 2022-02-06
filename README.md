@@ -23,8 +23,11 @@ Method mobile (Hasil OK)
 ````
 # Sandi Otomoatis
 ````php
+nama
 nama123
 nama12345
+bismillah
+sayang
 ````
 # Perintah Menjalankan SC
 ````php
