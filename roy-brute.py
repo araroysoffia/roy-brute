@@ -199,7 +199,7 @@ def moch_yayan():
     print(f"{P} [{H}*{P}] Whatsapp    :{K} 081318306972")
     print(f"{P} [{H}*{P}] Nama SC     :{K} Roy Brute Force")
     print(f"{P} [{H}*{P}] Versi SC    :{K} V1.0")
-    print("===============================================")
+    print("{P}===============================================")
     print(f"{P} [{H}*{P}] Nama FB      :{K}{nama}")
     print(f"{P} [{H}*{P}] ID FB        :{K}{idfb}")
     print(f"{P} [{H}*{P}] IP Anda      :{K}{IP}")
