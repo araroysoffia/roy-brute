@@ -83,9 +83,9 @@ def jalan(z):
 
 # LO KONTOL
 def logo():
-    print(f"""{H}
-╦═╗╔═╗╦ ╦   ╔╗ ╦═╗╦ ╦╔╦╗╔═╗
-╠╦╝║ ║╚╦╝───╠╩╗╠╦╝║ ║ ║ ║╣ 
+    print(f"""{M}
+╦═╗╔═╗╦ ╦   ╔╗ ╦═╗╦ ╦╔╦╗╔═╗{K}
+╠╦╝║ ║╚╦╝───╠╩╗╠╦╝║ ║ ║ ║╣ {H}
 ╩╚═╚═╝ ╩    ╚═╝╩╚═╚═╝ ╩ ╚═╝   {N} """)
 def convert_cookie(cok):
     return ( ";".join([str(i[0])+'='+str(i[1]) for i in cok.items()]) )
