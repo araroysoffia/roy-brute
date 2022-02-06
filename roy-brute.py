@@ -120,7 +120,7 @@ def hasil(ok,cp):
             ww=input(f"\n [{O}?{N}] ubah password ketika tap yes [Y/t]: ")
             if ww in ("Y","y","ya"):
                 ubahP.append("y")
-                print(f" [{H}•{N}] contoh password : {H}yayanxd{N}")
+                print(f" [{H}•{N}] contoh password : {H}admin123{N}")
                 pwBar=input(f"\n [{H}+{N}] masukan password baru : ")
                 print("\n")
                 if len(pwBar) <= 5:
@@ -204,7 +204,7 @@ def moch_yayan():
     print(f"{P} [{H}*{P}] ID FB       :{K} {idfb}")
     print(f"{P} [{H}*{P}] IP Anda     :{K} {IP}{P}")
     print("===============================================")
-    print(f"{P} [{H}00{P}]{K} MENU PILIHAN")
+    print(f"{P} [{H}99{P}].{K} MENU PILIHAN")
     print(' %s[%s01%s]. Crack ID dari Anggota Grup'%(N,O,N));time.sleep(0.03)
     print(' [%s02%s]. Crack ID dari Teman Publik'%(O,N));time.sleep(0.03)
     print(' [%s03%s]. Crack ID dari Total Followers'%(O,N));time.sleep(0.03)
@@ -216,7 +216,7 @@ def moch_yayan():
     print(' [%s09%s]. Settings User Agent'%(O,N));time.sleep(0.03)
     print(' [%s10%s]. Cek Hasil Crack'%(O,N));time.sleep(0.03)
     print(' [%s11%s]. Upgrade ke%s Premium%s'%(O,N,H,N));time.sleep(0.03)
-    print(' [%s12%s]. Logout (%sHapus Cookie%s)'%(M,N,M,N));time.sleep(0.03)
+    print(' [%s00%s]. Logout (%sHapus Cookie%s)'%(M,N,M,N));time.sleep(0.03)
     pepek = input('\n [%s*%s] Menu : '%(H,N))
     if pepek == '':
         print('\n %s[%s×%s] jangan kosong kentod!'%(N,M,N));time.sleep(2);moch_yayan()
@@ -311,7 +311,7 @@ def moch_yayan():
             exit(f"{N}[{M}×{N}] Y/t memek!")
         elif upd in["Y","y"]:
             jalan("\n %s* %sAnda akan di alihkan ke whatsapp..."%(O,H));time.sleep(0.02)
-            os.system('xdg-open https://wa.me/6287799183568?text=RATU+ERROR+BELI+LISENSINYA+DOOONG...........???');time.sleep(2);exit()
+            os.system('xdg-open https://wa.me/6281318306972?text=Ini+Gratis+Apa+Harus+Beli...........???');time.sleep(2);exit()
         elif upd in["T","t"]:
             jalan(f"{B} Good byee:)");exit()
         else:
@@ -510,7 +510,7 @@ def gabut():
     ww=input(f"\n {N}[{O}?{N}] ubah password ketika tap yes [Y/t]: ")
     if ww in ("Y","y","ya"):
         ubahP.append("y")
-        print(f" [{H}•{N}] contoh password : {H}yayanxd{N}")
+        print(f" [{H}•{N}] contoh password : {H}admin123{N}")
         pwBar=input(f"\n [{H}+{N}] masukan password baru : ")
         if len(pwBar) <= 5:
              print('\n %s[%s×%s] kata sandi minimal 6 karakter'%(N,M,N))
