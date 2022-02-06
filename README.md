@@ -1,22 +1,25 @@
 # Metode Login Termux
 ````php
-Token FB (Akun Tumbal Awet)
-Presentase s7i TAP YES 50%
+Cookies FB (Akun Tumbal Awet)
+````
+# Fitur Crack
+````php
+1. Crack dari Anggota Grup
+2. Crack dari Teman Publik
+3. Crack dari Total Follower
+4. Crack dari Like Postingan
+5. Carck dari Random ID Massal
+6. Crack dari Komentar Postingan
+7. Crack akun Instagram
+8. Checkpoint Detedtor
+9. Setting User Agent
+10. Cek Hasil Crack
 ````
 # Metode Crack
 ````php
-1. Crack dari Daftar Teman
-2. Crack dari Teman Publik
-3. Crack dari Total Follower
-Method b-api (Prose Capet)
-Method mbasic (Proses Normal)
-Method mobile (Proses Lama)
-````
-# Fitur Baru Multi Crack
-````php
-1. Multi Crack Teman Publik : Crack 1 sampai 10 ID Target sekaligus.
-Method b-api (Sandi Otomatis)
-Method mbasic (Sandi Manual)
+Method b-api
+Method mbasic
+Method mobile (Hasil OK)
 ````
 # Sandi Otomoatis
 ````php
@@ -30,14 +33,14 @@ $ pkg install python git
 $ pip install requests bs4 futures
 $ pip install cython
 $ termux-setup-storage
-$ cd /sdcard
+$ git clone https://github.com/araroysoffia/roy-brute
 $ python brute.py
 ````
 # Perintah Update SC
 ````php
-$ cd /sdcard
+$ cd roy-brute
 $ git pull
 $ python brute.py
 ````
 # Tampilan SC & Jebol S7I Via 203 UA Global
-![template_s](https://github.com/royarasoffia/roy-rmbf/blob/main/Screenshot_20210707-220152288.jpg)
+![template_s](#)
